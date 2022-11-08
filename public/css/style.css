@@ -1,0 +1,17 @@
+body {
+    background: rgb(195, 34, 182);
+    background: linear-gradient(0deg, rgba(195, 34, 182, 1) 5%, rgba(75, 72, 64, 1) 100%);
+}
+
+.carta {
+    -webkit-box-shadow: 20px 4px 51px -3px rgba(0, 0, 0, 0.66);
+    -moz-box-shadow: 20px 4px 51px -3px rgba(0, 0, 0, 0.66);
+    box-shadow: 20px 4px 51px -3px rgba(0, 0, 0, 0.66);
+    background: rgb(104, 184, 207);
+    background: radial-gradient(circle, rgba(104, 184, 207, 1) 71%, rgba(16, 83, 231, 1) 92%);
+}
+
+label,
+h1 {
+    color: white;
+}
